@@ -1,0 +1,12 @@
+# Bỏ qua các tệp Markdown nháp và tài liệu nội bộ, chỉ giữ lại README.md theo quy định của môn học
+*.md
+!README.md
+!**/README.md
+
+# Tệp tạm của Microsoft Office / Word
+~$*
+*.tmp
+
+# Tệp rác hệ thống Windows
+Thumbs.db
+desktop.ini
