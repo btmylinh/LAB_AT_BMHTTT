@@ -1,4 +1,12 @@
 # BÀI THỰC HÀNH LAB 1: BẮT VÀ PHÂN TÍCH GÓI TIN TELNET - SSH BẰNG WIRESHARK
+
+## Thông Tin Sinh Viên
+* **Họ và tên:** Bùi Thị Mỹ Linh
+* **Mã số sinh viên:** 1150080145
+* **Lớp:** CNPM2
+* **Học phần:** An toàn và Bảo mật Hệ thống Thông tin
+* **Video minh chứng thực hành:** [Xem trên YouTube](https://youtu.be/THWJH1aKwSw)
+
 ---
 
 ## 1. Mô Hình Ba Máy Thí Nghiệm Thực Tế
@@ -42,5 +50,7 @@
 
 ## 3. Danh Mục Tệp Nghiệm Thu
 
-- **Tệp báo cáo Microsoft Word chính thức:** [Lab1_BaoCao_ThucHanh_ATBMHTTT.docx](Lab1_BaoCao_ThucHanh_ATBMHTTT.docx).
-- **Tệp cẩm nang hướng dẫn chi tiết:** [Ke_Hoach_Va_Huong_Dan_Lab1.md](Ke_Hoach_Va_Huong_Dan_Lab1.md).
+- **Báo cáo Word chính thức:** [lab1_cnpm2_1150080145_BuiThiMyLinh.docx](lab1_cnpm2_1150080145_BuiThiMyLinh.docx).
+- **Cẩm nang hướng dẫn chi tiết:** [Ke_Hoach_Va_Huong_Dan_Lab1.md](Ke_Hoach_Va_Huong_Dan_Lab1.md).
+- **Tệp bắt gói tin Wireshark:** `telnet_traffic_capture.pcapng`, `ssh_traffic_capture.pcapng`.
+- **Video ghi lại toàn bộ quá trình thực hành:** https://youtu.be/THWJH1aKwSw
