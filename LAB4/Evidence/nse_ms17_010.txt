@@ -1,0 +1,9 @@
+# Nmap 7.99 scan initiated Tue Sep 29 05:38:54 2026 as: /usr/lib/nmap/nmap -p 445 --script smb-vuln-ms17-010 -oN /home/kali/LAB4/Evidence/nse_ms17_010.txt 192.168.126.129
+Nmap scan report for 192.168.126.129
+Host is up (0.00032s latency).
+
+PORT    STATE SERVICE
+445/tcp open  microsoft-ds
+MAC Address: 00:0C:29:F8:3F:13 (VMware)
+
+# Nmap done at Tue Sep 29 05:38:58 2026 -- 1 IP address (1 host up) scanned in 4.69 seconds

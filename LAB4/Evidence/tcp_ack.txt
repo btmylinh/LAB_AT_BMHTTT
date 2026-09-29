@@ -1,0 +1,14 @@
+# Nmap 7.99 scan initiated Tue Sep 29 05:23:43 2026 as: /usr/lib/nmap/nmap -sA -p 21,22,80,139,445,3389 -oN /home/kali/LAB4/Evidence/tcp_ack.txt 192.168.126.129
+Nmap scan report for 192.168.126.129
+Host is up (0.00026s latency).
+
+PORT     STATE      SERVICE
+21/tcp   unfiltered ftp
+22/tcp   unfiltered ssh
+80/tcp   unfiltered http
+139/tcp  unfiltered netbios-ssn
+445/tcp  unfiltered microsoft-ds
+3389/tcp unfiltered ms-wbt-server
+MAC Address: 00:0C:29:F8:3F:13 (VMware)
+
+# Nmap done at Tue Sep 29 05:23:47 2026 -- 1 IP address (1 host up) scanned in 4.65 seconds

@@ -1,0 +1,13 @@
+# Nmap 7.99 scan initiated Tue Sep 29 05:14:25 2026 as: /usr/lib/nmap/nmap -sN -p 21,22,80,139,445 -oN /home/kali/LAB4/Evidence/tcp_null.txt 192.168.126.129
+Nmap scan report for 192.168.126.129
+Host is up (0.00023s latency).
+
+PORT    STATE         SERVICE
+21/tcp  open|filtered ftp
+22/tcp  open|filtered ssh
+80/tcp  open|filtered http
+139/tcp open|filtered netbios-ssn
+445/tcp open|filtered microsoft-ds
+MAC Address: 00:0C:29:F8:3F:13 (VMware)
+
+# Nmap done at Tue Sep 29 05:14:31 2026 -- 1 IP address (1 host up) scanned in 5.87 seconds

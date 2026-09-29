@@ -1,7 +1,12 @@
-# Bỏ qua các tệp Markdown nháp và tài liệu nội bộ, chỉ giữ lại README.md theo quy định của môn học
+# Bỏ qua các tệp Markdown nháp và tài liệu nội bộ, chỉ giữ lại README.md và kế hoạch hướng dẫn
 *.md
 !README.md
 !**/README.md
+!Ke_Hoach_Va_Huong_Dan_*.md
+!**/Ke_Hoach_Va_Huong_Dan_*.md
+
+# Tệp đa phương tiện video dung lượng lớn (đã lưu trữ trên YouTube)
+*.mp4
 
 # Tệp tạm của Microsoft Office / Word
 ~$*

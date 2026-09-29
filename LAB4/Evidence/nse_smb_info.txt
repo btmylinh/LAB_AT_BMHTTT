@@ -1,0 +1,18 @@
+# Nmap 7.99 scan initiated Tue Sep 29 05:34:55 2026 as: /usr/lib/nmap/nmap -p 445 --script smb-os-discovery -oN /home/kali/LAB4/Evidence/nse_smb_info.txt 192.168.126.129
+Nmap scan report for 192.168.126.129
+Host is up (0.00026s latency).
+
+PORT    STATE SERVICE
+445/tcp open  microsoft-ds
+MAC Address: 00:0C:29:F8:3F:13 (VMware)
+
+Host script results:
+| smb-os-discovery: 
+|   OS: Unix (Samba 3.0.20-Debian)
+|   Computer name: metasploitable
+|   NetBIOS computer name: 
+|   Domain name: localdomain
+|   FQDN: metasploitable.localdomain
+|_  System time: 2026-09-29T05:35:11-04:00
+
+# Nmap done at Tue Sep 29 05:35:00 2026 -- 1 IP address (1 host up) scanned in 4.70 seconds
