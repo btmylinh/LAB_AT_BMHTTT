@@ -1,7 +1,18 @@
-# Bỏ qua các tệp Markdown nháp và tài liệu nội bộ, chỉ giữ lại README.md theo quy định của môn học
+# Bỏ qua các tệp Markdown nháp và tài liệu nội bộ, chỉ giữ lại README.md và cẩm nang thực hành
 *.md
 !README.md
 !**/README.md
+!Ke_Hoach_Va_Huong_Dan_*.md
+!**/Ke_Hoach_Va_Huong_Dan_*.md
+
+# Bỏ qua các tệp đĩa quang và tệp nén dung lượng lớn (tránh vượt giới hạn 100MB của GitHub)
+*.iso
+*.iso.gz
+*.vmdk
+*.ova
+*.7z
+*.rar
+*.zip
 
 # Tệp tạm của Microsoft Office / Word
 ~$*
@@ -10,3 +21,4 @@
 # Tệp rác hệ thống Windows
 Thumbs.db
 desktop.ini
+

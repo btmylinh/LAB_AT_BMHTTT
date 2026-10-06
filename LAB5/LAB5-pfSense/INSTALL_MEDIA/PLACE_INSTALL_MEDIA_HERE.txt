@@ -1,0 +1,1 @@
+﻿Đặt pfSense-CE-2.7.2-RELEASE-amd64.iso.gz vào đây, verify SHA-256, sau đó giải nén để có pfSense-CE-2.7.2-RELEASE-amd64.iso.
