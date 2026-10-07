@@ -6,6 +6,7 @@
 * **Lớp:** CNPM2
 * **Học phần:** An toàn và Bảo mật Hệ thống Thông tin
 * **Đề tài thực hành:** Thiết lập và quản trị tường lửa lọc gói có trạng thái (Stateful Firewall) pfSense trên mô hình đa phân vùng WAN - LAN - DMZ
+* **Video minh chứng thực hành:** [Xem trên YouTube](https://youtu.be/Pl_yr3ZKtGg)
 
 ---
 
@@ -27,3 +28,4 @@
 2. **Gói tài nguyên và bộ cài đặt chính thức:** Thư mục `LAB5-pfSense/` *(Bao gồm tài liệu mẫu Word, liên kết tải từ máy chủ Netgate, kịch bản kiểm tra mã băm toàn vẹn)*.
 3. **Mã băm kiểm tra tính toàn vẹn bộ cài:** `LAB5-pfSense/SHA256SUMS.txt` và kịch bản `LAB5-pfSense/VERIFY_SHA256.ps1`.
 4. **Thư mục minh chứng kết quả:** `Evidence/` *(Lưu trữ các tệp nhật ký tường lửa, bảng trạng thái kết nối và ảnh chụp màn hình nghiệm thu các tình huống)*.
+5. **Video ghi lại toàn bộ quá trình thực hành:** https://youtu.be/Pl_yr3ZKtGg
