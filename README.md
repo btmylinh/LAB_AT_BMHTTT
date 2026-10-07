@@ -8,9 +8,9 @@
 
 ---
 
-## Danh Sách Bài Thực Hành và Video  ChứngMinh
+## Danh Sách Bài Thực Hành và Video 
 
-| STT | Bài thực hành | Đề tài / Nội dung thực hiện | Video minh chứng thực hành | Nhánh mã nguồn |
+| STT | Bài thực hành | Đề tài / Nội dung thực hiện | Video thực hành | Nhánh mã nguồn |
 | :---: | :--- | :--- | :--- | :---: |
 | 1 | **Bài thực hành 1 (Lab 1)** | Bắt và phân tích gói tin Telnet - SSH bằng Wireshark | [Xem trên YouTube](https://youtu.be/THWJH1aKwSw) | [`lab1`](https://github.com/btmylinh/LAB_AT_BMHTTT/tree/lab1) |
 | 2 | **Bài thực hành 3 (Lab 3)** | Nhận diện và ứng phó các mối đe dọa an toàn thông tin | [Xem trên YouTube](https://youtu.be/0tgflkfhdOY) | [`lab3`](https://github.com/btmylinh/LAB_AT_BMHTTT/tree/lab3) |
