@@ -32,3 +32,5 @@
 2. **Đề bài thực hành gốc:** `LAB6_pfSense_AD_Access_Policies_2026.docx` và `LAB6_pfSense_AD_Access_Policies_2026.pdf`.
 3. **Thư mục minh chứng kết quả:** `Evidence/` *(Lưu trữ nhật ký tường lửa, bảng trạng thái kết nối và tệp cấu hình xuất từ hệ thống `config-pfSense-LAB6.xml`)*.
 4. **Thư mục ảnh chụp màn hình:** `images/` *(Chứa toàn bộ 13 ảnh chụp minh chứng H1 đến H13 phục vụ báo cáo)*.
+5. **Video thực hành:** [Xem trên YouTube](https://www.youtube.com/watch?v=6-94BqEIed8)
+
