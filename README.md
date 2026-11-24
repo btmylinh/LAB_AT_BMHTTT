@@ -21,3 +21,4 @@
 | 7 | **Bài thực hành 8 (Lab 8)** | Tấn công DNS cục bộ (DNS Spoofing & Cache Poisoning) trong mạng ảo cô lập | Đang cập nhật | [`lab8`](https://github.com/btmylinh/LAB_AT_BMHTTT/tree/lab8) |
 | 8 | **Bài thực hành 9 (Lab 9)** | Tấn công Remote DNS Cache Poisoning trong môi trường pfSense cô lập | Đang cập nhật | [`lab9`](https://github.com/btmylinh/LAB_AT_BMHTTT/tree/lab9) |
 | 9 | **Bài thực hành 10 (Lab 10)** | Hiện thực các thuật toán mã hóa đối xứng cổ điển và thám mã với Java Swing | Đang cập nhật | [`lab10`](https://github.com/btmylinh/LAB_AT_BMHTTT/tree/lab10) |
+| 10 | **Bài thực hành 12 (Lab 12)** | Mã hóa khóa công khai (RSA, ECC), hệ mã lai RSA + AES và chữ ký số ECDSA | Đang cập nhật | [`lab12`](https://github.com/btmylinh/LAB_AT_BMHTTT/tree/lab12) |
